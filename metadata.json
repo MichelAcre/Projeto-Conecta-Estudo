@@ -1,0 +1,6 @@
+{
+  "name": "Conecta Estudo",
+  "description": "Rede acadêmica colaborativa e gamificada com grupos de estudo, resumos didáticos, biblioteca de conteúdos e quizzes interativos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
